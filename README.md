@@ -120,7 +120,12 @@ The model is optimized for efficient filtering and DAX calculations.
 
 ##  Dataset
 
-This project uses the **DataCo Smart Supply Chain Dataset**, a publicly available dataset for analytics and educational purposes.
+This project uses the **DataCo Smart Supply Chain Dataset**, which is publicly available for educational and analytical purposes.
+
+Due to GitHub file size limitations, the dataset is not included in this repository.
+
+You can download it from:
+https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
 
 ---
 
